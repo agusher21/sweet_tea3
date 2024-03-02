@@ -1,0 +1,28 @@
+{
+  "name": "@agusher21/sweet_tea",
+  "version": "1.0.0",
+  "description": "hello tea lovers",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agusher21/sweet_tea.git"
+  },
+  "keywords": [
+    "TEA",
+    "tutorial\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5Dnew",
+    "\u001b[1;5C\u001b[1;5C\u001b[1;5C\u001b[1;5C",
+    "tutorial"
+  ],
+  "author": "bullrunz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agusher21/sweet_tea/issues"
+  },
+  "homepage": "https://github.com/agusher21/sweet_tea#readme",
+  "dependencies": {
+    "sweet_tea": "^1.0.0"
+  }
+}
